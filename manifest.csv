@@ -1,0 +1,4 @@
+dataset,last_success,max_age_hours,null_rate,max_null_rate,row_count,min_rows
+claims,2026-01-04T10:00:00,6,0.01,0.05,800,500
+payments,2026-01-03T05:00:00,12,0.10,0.05,250,500
+customers,2026-01-04T11:00:00,6,0.01,0.05,950,500
